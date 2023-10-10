@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<Library>
+    <Genre category='Technical'>
+        <Book>
+            <Title>Book 1</Title>
+            <Author>Clare Tubridy</Author>
+            <ISBN>123456789</ISBN>
+        </Book>
+        <Book>
+            <Title>Book 2</Title>
+            <Author>Albert Einstein</Author>
+            <ISBN>987654321</ISBN>
+        </Book>
+    </Genre>
+    <Genre category='Cookery'>
+        <Book>
+            <Title>Book 3</Title>
+            <Author>Gordon Ramsey</Author>
+            <ISBN>112233445</ISBN>
+        </Book>
+        <Book>
+            <Title>Book 4</Title>
+            <Author>Jamie Oliver</Author>
+            <ISBN>556677889</ISBN>
+        </Book>
+    </Genre>
+</Library>
