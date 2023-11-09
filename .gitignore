@@ -162,3 +162,4 @@ cython_debug/
 # Configuration Files
 labs/htmlconfig.py
 labs/config.py
+assignments/config.py
